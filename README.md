@@ -11,5 +11,5 @@
 ##### Call taxi activity.
 
 <p align="center">
-    <img src="screenshots/l1_activity_main.png">
+    <img src="screenshots/l1_activity_call_taxi.png">
 </p>
