@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fake Taxi</string>
+    <string name="dialog__successful_taxi_order__title">Taxi order</string>
+    <string name="dialog__successful_taxi_order__message">Do you really want to take that taxi?</string>
+    <string name="toast__successful_taxi_order__message">Have a nice ride;)</string>
+    <string name="toast__decline_taxi_order__message">Ok, I understand.</string>
+</resources>
